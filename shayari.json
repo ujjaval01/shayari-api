@@ -1,252 +1,52 @@
 [
   {
-    "shayari": "ज़िंदगी में वही लोग खास होते हैं, जो दिल के बहुत पास होते हैं।",
-    "author": "Anonymous",
-    "category": "Life"
+    "id": 1,
+    "name": "Ujjaval Saini",
+    "position": "Android Developer"
   },
   {
-    "shayari": "मोहब्बत में नहीं है फर्क जीने और मरने का, उसी को देखकर जीते हैं जिस काफिर पे दम निकले।",
-    "author": "Mirza Ghalib",
-    "category": "Love"
+    "id": 2,
+    "name": "Aarav Sharma",
+    "position": "Frontend Developer"
   },
   {
-    "shayari": "कुछ तो मजबूरियाँ रही होंगी, यूँ कोई बेवफा नहीं होता।",
-    "author": "Jaun Elia",
-    "category": "Sad"
+    "id": 3,
+    "name": "Priya Verma",
+    "position": "Backend Developer"
   },
   {
-    "shayari": "दिल से जो बात निकलती है असर रखती है।",
-    "author": "Allama Iqbal",
-    "category": "Motivation"
+    "id": 4,
+    "name": "Rohit Kumar",
+    "position": "UI/UX Designer"
   },
   {
-    "shayari": "हम तो नरम पत्तों की शाख हुआ करते थे।",
-    "author": "Anonymous",
-    "category": "Sad"
+    "id": 5,
+    "name": "Sneha Gupta",
+    "position": "Flutter Developer"
   },
   {
-    "shayari": "वो बात करने तक को राज़ी नहीं।",
-    "author": "Anonymous",
-    "category": "Love"
+    "id": 6,
+    "name": "Ankit Singh",
+    "position": "Full Stack Developer"
   },
   {
-    "shayari": "तू मिल गई है तो मुझपे नाराज़ है खुदा।",
-    "author": "Anonymous",
-    "category": "Love"
+    "id": 7,
+    "name": "Neha Joshi",
+    "position": "QA Engineer"
   },
   {
-    "shayari": "इश्क वो नहीं जो तुझे मेरा कर दे।",
-    "author": "Anonymous",
-    "category": "Love"
+    "id": 8,
+    "name": "Vikas Patel",
+    "position": "DevOps Engineer"
   },
   {
-    "shayari": "अब ना मैं हूँ, ना बाकी हैं ज़माने मेरे।",
-    "author": "Ahmad Faraz",
-    "category": "Sad"
+    "id": 9,
+    "name": "Karan Mehta",
+    "position": "Data Analyst"
   },
   {
-    "shayari": "हर चीज़ से पहले उसी का ख्याल आता है।",
-    "author": "Anonymous",
-    "category": "Love"
-  },
-  {
-    "shayari": "दिल में बसने वाले भी बड़े अजीब होते हैं।",
-    "author": "Anonymous",
-    "category": "Life"
-  },
-  {
-    "shayari": "तुझे भूलकर भी ना भूल पाएंगे हम।",
-    "author": "Anonymous",
-    "category": "Sad"
-  },
-  {
-    "shayari": "जितना दिल साफ रखा उतना ही गुनहगार हो गए।",
-    "author": "Anonymous",
-    "category": "Life"
-  },
-  {
-    "shayari": "सफर वही तक है जहाँ तक तुम हो।",
-    "author": "Anonymous",
-    "category": "Love"
-  },
-  {
-    "shayari": "बहुत अंदर तक तबाही मचाता है वो आँसू।",
-    "author": "Anonymous",
-    "category": "Sad"
-  },
-  {
-    "shayari": "दिल तोड़ना पड़ता है लफ़्ज़ों को जोड़ने से पहले।",
-    "author": "Anonymous",
-    "category": "Sad"
-  },
-  {
-    "shayari": "तेरी मोहब्बत पर मेरा हक तो नहीं।",
-    "author": "Anonymous",
-    "category": "Love"
-  },
-  {
-    "shayari": "सच्चा प्यार कभी छोड़कर नहीं जाता।",
-    "author": "Anonymous",
-    "category": "Love"
-  },
-  {
-    "shayari": "इंसान पल भर में याद बन जाता है।",
-    "author": "Anonymous",
-    "category": "Life"
-  },
-  {
-    "shayari": "जहाँ तुम नहीं वहाँ हम अकेले हैं।",
-    "author": "Anonymous",
-    "category": "Sad"
-  },
-  {
-    "shayari": "तुमने तो इतना भी ना पूछा कि खामोश क्यों हो।",
-    "author": "Anonymous",
-    "category": "Sad"
-  },
-  {
-    "shayari": "मुझे अपने जैसे लोग बहुत पसंद हैं।",
-    "author": "Anonymous",
-    "category": "Friendship"
-  },
-  {
-    "shayari": "खुशी कहाँ रहती है अब ज़माने में।",
-    "author": "Anonymous",
-    "category": "Life"
-  },
-  {
-    "shayari": "दिल जीतने के लिए साजिशों की जरूरत नहीं।",
-    "author": "Anonymous",
-    "category": "Motivation"
-  },
-  {
-    "shayari": "हजारों अपने हैं मगर याद तुम ही आते हो।",
-    "author": "Anonymous",
-    "category": "Love"
-  },
-  {
-    "shayari": "मतलब से बने रिश्ते टिकते नहीं।",
-    "author": "Anonymous",
-    "category": "Life"
-  },
-  {
-    "shayari": "मुस्कुराना हमारी मजबूरी है।",
-    "author": "Anonymous",
-    "category": "Sad"
-  },
-  {
-    "shayari": "तन्हाई में मुस्कुराना भी इश्क है।",
-    "author": "Anonymous",
-    "category": "Love"
-  },
-  {
-    "shayari": "हमने हर दर्द को मुस्कुराकर सहा है।",
-    "author": "Anonymous",
-    "category": "Sad"
-  },
-  {
-    "shayari": "हमें इश्क का शौक है आवारगी का नहीं।",
-    "author": "Anonymous",
-    "category": "Love"
-  },
-  {
-    "shayari": "अच्छी किताब आसानी से समझ नहीं आती।",
-    "author": "Anonymous",
-    "category": "Motivation"
-  },
-  {
-    "shayari": "रास्ते हमेशा पैरों के नीचे होते हैं।",
-    "author": "Anonymous",
-    "category": "Motivation"
-  },
-  {
-    "shayari": "जो लोग अंदर से मर जाते हैं।",
-    "author": "Anonymous",
-    "category": "Sad"
-  },
-  {
-    "shayari": "जिसका दिल टूटता है उसका सब कुछ चला जाता है।",
-    "author": "Anonymous",
-    "category": "Sad"
-  },
-  {
-    "shayari": "किस्मत वालों को मिलती है ऐसी मोहब्बत।",
-    "author": "Anonymous",
-    "category": "Love"
-  },
-  {
-    "shayari": "कुछ लोग हमारे अंदाज़ से जल जाते हैं।",
-    "author": "Anonymous",
-    "category": "Attitude"
-  },
-  {
-    "shayari": "चुप रहना भी एक सलीका है।",
-    "author": "Anonymous",
-    "category": "Life"
-  },
-  {
-    "shayari": "दिल की बात हर किसी से कही नहीं जाती।",
-    "author": "Anonymous",
-    "category": "Life"
-  },
-  {
-    "shayari": "रातों को जागने से मोहब्बत लौटा नहीं करती।",
-    "author": "Anonymous",
-    "category": "Sad"
-  },
-  {
-    "shayari": "वक्त अच्छा हो तो गलती भी मजाक लगती है।",
-    "author": "Anonymous",
-    "category": "Life"
-  },
-  {
-    "shayari": "तू हजार बार भी रूठे तो मना लूँगा।",
-    "author": "Anonymous",
-    "category": "Love"
-  },
-  {
-    "shayari": "मौत तक वफा करे ऐसा कोई लिख दे।",
-    "author": "Anonymous",
-    "category": "Love"
-  },
-  {
-    "shayari": "माफ करके शर्मिंदा कर देना भी बुरा नहीं।",
-    "author": "Anonymous",
-    "category": "Motivation"
-  },
-  {
-    "shayari": "अधूरी मोहब्बतें पूरी यादें छोड़ जाती हैं।",
-    "author": "Anonymous",
-    "category": "Sad"
-  },
-  {
-    "shayari": "खुद को भूल जाओ इतना भी मत चाहो।",
-    "author": "Anonymous",
-    "category": "Love"
-  },
-  {
-    "shayari": "कुछ लोग सिर्फ चाहने के लिए होते हैं।",
-    "author": "Anonymous",
-    "category": "Sad"
-  },
-  {
-    "shayari": "दिल बड़ा होना चाहिए।",
-    "author": "Anonymous",
-    "category": "Motivation"
-  },
-  {
-    "shayari": "तन्हाई का दर्द वही समझता है।",
-    "author": "Anonymous",
-    "category": "Sad"
-  },
-  {
-    "shayari": "कुछ लोग तन्हाइयों के लिए आते हैं।",
-    "author": "Anonymous",
-    "category": "Sad"
-  },
-  {
-    "shayari": "जो आपका गुस्सा सहकर भी साथ दे।",
-    "author": "Anonymous",
-    "category": "Love"
+    "id": 10,
+    "name": "Riya Kapoor",
+    "position": "Project Manager"
   }
 ]
